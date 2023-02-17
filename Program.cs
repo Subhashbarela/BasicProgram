@@ -10,7 +10,8 @@ namespace BasicCoding
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to basic Coding :");
+            //Console.WriteLine("Welcome to basic Coding :");
+            FindLargestOfThree.Largest();
             Console.ReadKey();
         }
     }
