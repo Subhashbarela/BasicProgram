@@ -11,6 +11,7 @@ namespace BasicCoding
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to basic Coding :");
+            SwappingTwoNum.SwapingNum();
             Console.ReadKey();
         }
     }
